@@ -1,0 +1,14 @@
+layout_spectrum: 0.5277555189095438
+typography_spectrum: 0.26814163383096457
+color:
+  brandStrength: 0.48297070409171283
+  lightness: 0.7692391788586974
+  saturation: 0.27898365445435047
+  rhythmicContrast: 0.15685464767739177
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: Another Shift
